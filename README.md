@@ -39,6 +39,18 @@ Site architecture, reservation integration behavior, SEO/migration strategy, cam
 
 Source code, production credentials, guest/reservation data, internal reports, private metrics, operational policies and administrative integrations.
 
+## Code samples
+
+The `examples/` directory contains **sanitized TypeScript written specifically for technical evaluation**. It demonstrates booking-query construction, parameter validation, campaign attribution and privacy-aware analytics without publishing the production website or any real booking-engine credentials.
+
+- [Examples overview](examples/README.md)
+- [Booking URL builder](examples/booking/build-booking-url.ts)
+- [Booking URL tests](examples/booking/build-booking-url.test.ts)
+- [Marketing context sanitizer](examples/analytics/marketing-context.ts)
+- [Tracking tests](examples/analytics/marketing-context.test.ts)
+
+The endpoint, IDs and data used by these samples are synthetic.
+
 ## Portfolio case
 
 [Open the full public case](https://mateus-nascimento-dev.lovable.app/projetos/passargada)
