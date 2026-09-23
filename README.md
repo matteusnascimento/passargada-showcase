@@ -39,6 +39,10 @@ Site architecture, reservation integration behavior, SEO/migration strategy, cam
 
 Source code, production credentials, guest/reservation data, internal reports, private metrics, operational policies and administrative integrations.
 
+## Portfolio case
+
+[Open the full public case](https://mateus-nascimento-dev.lovable.app/projetos/passargada)
+
 ## Author
 
 Mateus Nascimento dos Santos · [GitHub](https://github.com/matteusnascimento)
